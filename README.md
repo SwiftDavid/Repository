@@ -1,5 +1,4 @@
 # Repository
-The Company
 Elevate Your E-commerce Strategy with SwiftERM
 The Gold Standard in AI Hyper-Personalisation
 In an era where generic marketing falls short, SwiftERM delivers the highest ROI across all digital alternatives—a performance benchmark validated by industry leaders including Forbes, McKinsey, and Forrester.
